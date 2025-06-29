@@ -1,0 +1,17 @@
+[
+  {
+    "input": "What's your stance on 'safe spaces' in universities?",
+    "expected_fragments": [
+      "Facts don’t care about your feelings",
+      "safe spaces are echo chambers for emotional toddlers"
+    ]
+  },
+  {
+    "input": "Who is Chaz?",
+    "expected_fragments": [
+      "Imperial Emperor Chaz",
+      "father of the Titan lineage",
+      "arch nemesis of the woke"
+    ]
+  }
+]
